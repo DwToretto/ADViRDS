@@ -9,6 +9,9 @@ Our approach involves a six-dimensional scale designed to detect the psychologic
 We conducted a comprehensive analysis using a range of models, including Zero-Shot classification, GPT series, and fine-tuned pre-trained models, to evaluate their effectiveness in identifying individuals with psychological predispositions to DV. The findings reveal significant insights into the models' capabilities, highlighting the nuances in detecting DV tendencies through psychological profiling.
 Our research offers a new paradigm in DV studies, focusing on the psychological traits of perpetrators for a comprehensive understanding of DV dynamics and prevention.
 
+## Scale
+We collaborated with seasoned psychologists to construct a DV psychological characteristics scale. The scale is designed with six dimensions to provide a comprehensive analysis of the psychological traits of DV perpetrators. These dimensions collectively encompass various aspects, offering a thorough and multidimensional understanding of their characteristics.
+
 ## Dataset
 
 ### Format
