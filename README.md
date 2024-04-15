@@ -11,4 +11,14 @@ Our research offers a new paradigm in DV studies, focusing on the psychological 
 
 ## Dataset
 
+### Format
+`ADViRDS_data.json`: Contains 574 posts with each post having the following attributes:
+* `id`: id of the post
+* `entity`: individual with domestic violence tendency in the post
+* `content`：the entire text of the post
+* `conditions`: determination labels for each dimension in the scale
+    1. C1~C6：conditions(dimensions) in the scale
+    2. **1/0** label depending on whether "it is possible to use the content in the post text to infer/it is known that the entity has a problem corresponding to the condition"
+
+
 ## Citation
